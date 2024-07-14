@@ -42,6 +42,4 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to customize this to better fit your project's specifics!
