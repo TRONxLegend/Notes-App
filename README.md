@@ -1,5 +1,4 @@
 
-
 # Notes App
 
 A simple and intuitive application for creating, managing, and organizing notes. This app is designed to help you keep track of your thoughts, tasks, and ideas all in one place.
